@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{47AB6E51-CBD8-425F-8EA9-983DC709C42C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyCSSFile.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="quickstart/config.toml">
     <Files>
       <File FileName="EmptyCSSFile.css" Line="1" Column="1" />
+      <File FileName="quickstart/config.toml" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
